@@ -1,0 +1,29 @@
+Lore: los PJ  son habitantes de los reinos de las 4 direcciones. 
+Los nómadas del norte fueron casi exterminados por los invasores,  una raza desconocida hasta ahora que se hacen "Los nuevos dioses ".
+
+El objetivo es repeler a los invasores,  pero para hacerlo deben probarse dignos,  recibir el favor del pueblo, de los ancianos,  del caciques y de la diosa.
+
+El primer desafío es probar que son guerreros dignos, por lo que deben enfrentar al Pterojaguar que vive en el valle,  para llegar ahí hay que cruzar un campo árido con geisser de fuego,  bastante comunes en la región. Los geisser de fuego hacen daño porcentual muy bestia,  digamos 60% de la vida actúal.
+En el camino se encuentran con un " anciano  aparentemente indefenso ", el les pide ayuda para rescatar a su esposa que quedó atrapada en los geissers.
+Más adelante hay una zona llena de geissers que aparece con una secuencia y una "anciana aparentemente indefensa" en el centro , si los PJ logran acercarse (descifrando la secuencia ) la anciana se convertirá en un "Demonio aparentemente ofensivo " que combatirá a los PJ. Tiene mucha evasión y vida,  así que la mejor opción es correr. 
+La idea es que los PJ se den cuenta de que los  geisser lo dañan. 
+
+Finalmente,  demonio muerto, el anciano se convierte en OgeuF,  la diosa de las llamas del este.  Ella dice bla bla bla son compasivos e ingeniosos,  bla bla bla nada es lo que parece bla bla bla tomen roca  (unas rocas se destruyen y aparece una roca guía ) hay más por ahí. 
+
+La roca guía ofrece tres auras :
+Vínculo con el fuego : el daño por fuego se reduce  (incluido el geisser ).
+Encarnación del fuego : todos los PJ ganan inmolación.
+Espíritu de Fuego : velocidad de ataque y regen de vida (mucha ).
+
+Luego de eso deben avanzar y enfrentar al Pterojaguar.  El cual tiene mucha armadura además sus ataques tienen chance de stunear. Por otro lado tiene "rugido" que es un stun en área. 
+Se lo puede vencer usando los geissers. 
+O bien con la inmolación  (que permite hacer daño aún cuando se está stuneado )
+O bien a golpes
+Las piedras guías no tienen auras globales pero si con mucho alcance
+El Pterojaguar suelta el ítem único  Piel de Pterojaguar que ofrece mucha armadura y chance de stunear con cada golpe recibido.
+Alternativa : El demonio aparentemente Inofensivo es un boss opcional y al vencerlo la diosa descubre un Templo secreto, ofreciendo los ítems :
+Garra de Pterojaguar que da chance de stunear por ataque .
+Piel de cachorro de Pterojaguar 
+Y botas de Pterojaguar  (velocidad de movimiento,  armadura, cada golpe dado tiene chance de stunear)
+Algun son básico como oro por segundo y algo como resistencia al fuego o similar.
+La piedra guía aparecería poco  más adelante en el camino

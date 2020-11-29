@@ -1,0 +1,27 @@
+Heroe: Puño de Piedra
+
+Concepto:  Un heroe que domina todos los estilos de combate de los 4 reinos, pudiento intercambiar entre ellos para obtener distintas ventajas. Cada golpe que lanza consume o recibe consume un poco de mana. De no tener maná sus habilidades funcionan a la mitad de potencia.
+-El estilo de los Nomadas del norte se concidera perdido, por lo que el heroe deber aprendelo en sidequest o buscando ciertos items/templos/libros
+-Alternativamente, podemos organizar sus habilidades en Oeste, Este, Norte y Sur (y no en  Ofensivas y defensivas), luego el jugador elige si orientarse al ataque o a la defensa en base a elegir que subhabilidad activa de cada una.
+
+Defensiva I
+-Piel de Piedra: Otorga un bono de armadura. Tecnica tipica de las montañas del oeste. Endurece todos los músculos para ganar defensa contra melee.
+-Meditación: Incrementa la regen de maná y la resistencia mágica.
+-Contra golpe: Después de recibir de recibir daño, existe una chance de devolver el golpe. La técnica perdida de los nomadas del viento.
+
+
+Defensiva II
+-Sin Forma: Otorga regen de vida y evasión. Tipico de los mares del sur, olvidando las defensas complicadas, se concentra en el ahorro de energía y en evasiones eficientes.
+-Volar: Incrementa la velocidad de movimiento y evasion contra daño físico a distancia. La técnica perdida de los nomadas del viento.
+
+Ofensiva I
+-Puño de Piedra: Tecnica insignia del heroes, daño normal y velocidad normal pero tiene chance de critico. 
+-Cortar Tornado: Los golpes queman maná.  La perdida tecnica de los nomadas del norte.
+
+Ofensiva II
+-Arpon: Otroga daño adicional pero reduce la velocidad de ataque. Tipico de los mares del sur, consiste en esperar el momento oportuno para cazar a la presa.
+-Ardor: Otorga velocidad de ataque pero reduce el daño. Usando la correcta tecnica de respiración, las llamas del este logran atacar sin descanso.
+-Penetrar guardia: Ignora armadura.  La perdida tecnica de los nomadas del norte.
+
+-Verdadero Puño de piedra: Tecnica insignia del heroes, el siguiente golpe del heroe tiene chance de stun. Autolanzable
+-La union de los estilos: Utiliza todas sus habilidades ofensivas y defensivas, pero consume su maná rápidamente

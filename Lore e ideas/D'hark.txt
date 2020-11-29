@@ -1,0 +1,12 @@
+D'hark
+Idea: El dios olvidado que quiere reclamar su legitimo puesto
+
+DPS mágico. Sin embargo sus stats son los peores del juego. Depende de "trato oscuro" para mejorar. No puede realizar ataques físicos a menos que se convierta en su forma demoniaca.
+
+Destrucción y Oscuridad: Trayendo un poder más allá de la magia de una época futura, crea una explosión en area que seguirá haciendo daño en el tiempo en esa zona.
+Ascención Oscura: Transformación en un demonio.
+Rayo oscuro: relampago que rebota. Daño.
+Sentencia Oscura: El hechizo que más daño realiza a un objetivo.
+
+Predicción Oscura: La gran inteligencia de D'hark le permite predecir los ataque rivales, mientras esté activo, incrementa su evasion y recupera maná pero no puede lanzar hechizos
+Trato Oscuro: Mejora los stat de D´hark dependiendo de cuantas unidades haya matado.

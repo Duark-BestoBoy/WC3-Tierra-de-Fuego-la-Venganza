@@ -1,0 +1,22 @@
+Mago del tiempo
+
+Heroe que puede ser soporte o autosuportearse para ser rightclicker
+
+Afinidad con el tiempo: Cada vez que castea un Escudo del Tiempo o Espada del tiempo sobre si mismo, este heroe gana regen de maná o vida.  Incrementa pasivamente la velocidad de movimiento.
+ 
+
+Retroceso: Disminuye la velocidad de ataque y movimiento de todos los heroes cercanos pero incrementa la regen de vida y mana por segundo.
+
+Escudo del Tiempo: Los enemigos del objetivo (en melee) pierden velocidad de ataque. Sin embargo el objetivo pierde mana por segundo.
+
+Espada del Tiempo: Incrementa la velocidad de ataque del objetivo pero este pierde vida por segundo.
+
+Robar Tiempo: El objetivo pierde velocidad de ataque y movimiento. Este heroe gana critico y evasion. 
+
+Otorgar Tiempo: El objetivo gana evasion y critico, este heroe pierde velocidad de ataque y movimiento.
+
+
+
+
+
+No me convencen "Otorgar Tiempo" y "Robar tiempo", siendo que hacen basicamente lo mismo pero Robar Tiempo no tiene desventajas

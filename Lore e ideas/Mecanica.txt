@@ -1,0 +1,8 @@
+Milestone/Piedra guía: son piedras que pueden revivir héroes  (por un precio, quizás en xp  ). Además se pueden activar auras. El problema es que cada Milestone puede mantener sólo un aura activa, por lo que hay que elegir cual usar. En general debería depender del jefe. 
+
+Templo secreto :  requieren un cierto nivel y derrotar a un boss opcional. Te dan un ítem clase único  (quizás a elegir entre dos o tres ) o mucho oro o experiencia adicional o una mejora de habilidad o una bendición o un don.
+
+Mejora de habilidad : mejora las matemáticas de una habilidad : ejemplo en lugar de ganar 5% evasión por nivel gana 6%.
+Disponible en templos secretos,  libros y quest. 
+
+Bendiciones y dones : mejoras tipo aura para un héroe. No ocupan slots pero no son tan fuertes. Las bendiciones se terminaba al morir los dones no.

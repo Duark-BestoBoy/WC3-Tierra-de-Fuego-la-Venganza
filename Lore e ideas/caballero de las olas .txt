@@ -1,0 +1,12 @@
+Héroe : caballero de las olas 
+Temática : targetear a un objetivo que recibe debuffos acumulable. Más algo de control/empuje.
+
+Mal del mar: Reduce la velocidad de ataque y daño del objetivo.  Acumulable.
+
+Arpón :  daño en el tiempo  + reducción de velocidad de movimiento  + empuja .  La reducción de velocidad depende del nivel de Mal del mar y el daño de pequeña ola. Acumulable. 
+
+Pequeño ola: tagetea a un objetivo. Este pierde  velocidad de ataque y movimiento y  empuja a las unidades cercanas. Cada casteo reduce el coste de Gran Ola.
+
+Gran Ola : empuja a todas las unidades en un área y les hace daño. Aplica debuffos al daño,  velocidad de ataque y movimientos en base a las otras habilidades.
+
+Otras dos habilidades. Quizás una de targeteo acumulable y otra de control
